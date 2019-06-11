@@ -87,3 +87,7 @@ node server
 
 - Use react-router instead of a dialog for details
 - Use normalizr and humps to simplify reducers
+
+## Known issues
+
+https://github.com/facebook/create-react-app/issues/6888
